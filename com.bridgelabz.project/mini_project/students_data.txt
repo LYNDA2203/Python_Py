@@ -1,0 +1,2 @@
+1001|Honest|22|AI/ML,python,powberBI|60,54,51
+1003|lavanya|22|python,flask,django|60,70,89
